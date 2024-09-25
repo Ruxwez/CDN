@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Squoosh",
+    "description": "Compress and compare images with different codecs, right in your browser.",
+    "url": "https://squoosh.app/",
+    "cover": "/img/tools/squoosh-cover.webp",
+    "categories": ["images"]
+  },
+  {
+    "name": "Shots",
+    "description": "Decorate your screenshots as mockups without complicating your life",
+    "url": "https://shots.so/",
+    "cover": "/img/tools/shots-cover.webp",
+    "categories": ["images"]
+  },
+  {
+    "name": "handbrake",
+    "description": "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+    "url": "https://handbrake.fr/",
+    "cover": "/img/tools/handbrake-cover.webp",
+    "categories": ["videos"]
+  },
+  {
+    "name": "Upscayl",
+    "description": "Rescale your images locally in a totally free way.",
+    "url": "https://upscayl.org/",
+    "cover": "/img/tools/upscayl-cover.webp",
+    "categories": ["images"]
+  }
+]
